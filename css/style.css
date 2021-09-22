@@ -160,8 +160,8 @@ li {
 }
 
 .education {
-  margin-bottom: 51px;
-  margin-top: 40px;
+  margin-bottom: 20px;
+  margin-top: 20px;
   margin-left: 88px;
   margin-right: 217px;
 }
@@ -179,7 +179,7 @@ li {
 .sidebar-section {
   background-color: #1e2939;
   width: 370px;
-  height: 1450px;
+  height: 1150px;
 }
 
 .picture {
